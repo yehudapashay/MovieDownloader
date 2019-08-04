@@ -1,4 +1,3 @@
-# MovieDownloader
 Java state machine implementation
 
 Events:
@@ -72,5 +71,11 @@ o WatchingMovie – the user is watching the movie
 o MoviePaused – the user paused the movie’s watching
 o MovieWaiting – the internet is off while watching the movie
 o MovieError – an error happened while watching the movie
+
+
+
+
+
+
 
 
